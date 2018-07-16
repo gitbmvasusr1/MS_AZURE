@@ -1,0 +1,10 @@
+Requesting a Cloud Shell.Succeeded.
+Connecting terminal...
+
+boyko_vasilev@Azure:~$ az login
+Cloud Shell is automatically authenticated under the initial account signed-in with. Run 'az login' only if you need to use a different account
+Not able to launch a browser to login you in, falling back to device code...
+To sign in, use a web browser to open the page https://microsoft.com/devicelogin and enter the code D9QEWRK92 to authenticate.
+^Cboyko_vasilev@Azure:~$
+boyko_vasilev@Azure:~$
+boyko_vasilev@Azure:~$
