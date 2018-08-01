@@ -1,0 +1,16 @@
+PS C:\Users\BoykoVasilev> Disconnect-AzureRmAccount
+
+
+Id                    : office@itsolution.biz
+Type                  : User
+Tenants               : {s1a4521c-32cq-26h8-z1a3-5x3b53aftxb1}
+AccessToken           : 
+Credential            : 
+TenantMap             : {}
+CertificateThumbprint : 
+ExtendedProperties    : {[Subscriptions, b6142705-fd15-402f-a302-2eeef4b2c9f6], [Tenants, s1a4521c-32cq-26h8-z1a3-5x3b53aftxb1]}
+
+
+
+
+PS C:\Users\BoykoVasilev>
